@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block contenidos %}
+<div class="row">
+    <div class="col-md-12">
+    <h3>Gracias</h3>
+    <h4>Para esto, necesitamos tu DID. Escanea el QR de abajo con uPort</h4>
+    <h4>Una vez que recibas la credencial, puedes <a href="/formCorreo/{{requestId}}">continuar a acreditar tu correo</a></h4>
+    </div>
+</div>
+<div class="row">
+<img id="imagen" src="{{qr}}"/>
+</div>
+<script>
+
+    jQuery(document).ready(function() {
+        jQuery.get("/status/123",function(data) {
+            console.log(data);
+        })
+    });
+
+</script>
+
+{% endblock %}

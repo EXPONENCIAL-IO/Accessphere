@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block contenidos %}
+<div class="row">
+    <div class="col-md-12"><h3>Accessphere Blockchain ID Attester</h3></div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <form method="POST" action="/submitCorreo">
+            <div class="form-group">
+                <label for="correoInput">Correo Electrónico</label>
+                <input type="hidden" name="requestId" value="{{requestId}}"/>
+                <input type="text" name="correoInput" class="form-control" id="correoInput" aria-describedby="correoInputHelp">
+                <small id="correoInputHelp" class="form-text text-muted">Ingresa tu correo electrónico</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

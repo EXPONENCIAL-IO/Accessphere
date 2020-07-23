@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block contenidos %}
+<div class="row">
+    <div class="col-md-12">
+    <h3>Gracias</h3>
+    <h4>Para esto, necesitamos tu DID. Escanea el QR de abajo con uPort</h4>
+    <h4>Una vez que recibas la credencial, puedes <a href="#">continuar a acreditar tu teléfono</a></h4>
+    </div>
+</div>
+<div class="row">
+<img id="imagen" src="{{qr}}"/>
+</div>
+{% endblock %}

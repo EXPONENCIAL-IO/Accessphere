@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block contenidos %}
+<div class="row">
+    <div class="col-md-12"><h3>Accessphere Blockchain ID Attester</h3></div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <form method="POST" action="/submitIdentidad">
+            <input type="hidden" name="requestId" value="{{requestId}}"/>
+            <div class="form-group">
+                <label for="nombreInput">Nombre</label>
+                <input type="text" name="nombreInput" class="form-control" id="nombreInput" aria-describedby="nombreInputHelp">
+                <small id="nombreInputHelp" class="form-text text-muted">Ingresa tu nombre completo</small>
+            </div>
+            <div class="form-group">
+                <label for="rutInput">RUT</label>
+                <input type="text" name="rutInput" class="form-control" id="rutInput" aria-describedby="rutInputHelp">
+                <small id="rutInputHelp" class="form-text text-muted">Ingresa tu RUT (puede ser ficticio)</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+    </div>
+</div>
+{% endblock %}
