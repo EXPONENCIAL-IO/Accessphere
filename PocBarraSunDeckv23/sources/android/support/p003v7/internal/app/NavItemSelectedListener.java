@@ -1,0 +1,24 @@
+package android.support.p003v7.internal.app;
+
+import android.support.p003v7.app.ActionBar.OnNavigationListener;
+import android.support.p003v7.internal.widget.AdapterViewCompat;
+import android.support.p003v7.internal.widget.AdapterViewCompat.OnItemSelectedListener;
+import android.view.View;
+
+/* renamed from: android.support.v7.internal.app.NavItemSelectedListener */
+class NavItemSelectedListener implements OnItemSelectedListener {
+    private final OnNavigationListener mListener;
+
+    public NavItemSelectedListener(OnNavigationListener listener) {
+        this.mListener = listener;
+    }
+
+    public void onItemSelected(AdapterViewCompat<?> adapterViewCompat, View view, int position, long id) {
+        if (this.mListener != null) {
+            this.mListener.onNavigationItemSelected(position, id);
+        }
+    }
+
+    public void onNothingSelected(AdapterViewCompat<?> adapterViewCompat) {
+    }
+}

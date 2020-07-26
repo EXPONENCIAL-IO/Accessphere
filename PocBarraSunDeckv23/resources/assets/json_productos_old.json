@@ -1,0 +1,444 @@
+{
+  "products": [
+    {
+      "tag": "agua",
+      "image_url": "agua.png",
+      "name": "Agua",
+      "tab": "1",
+      "price": "2000",
+      "type": "product",
+      "id": "1",
+      "stock": "1000"
+    },
+    {
+      "tag": "red_bull",
+      "image_url": "red_bull.png",
+      "name": "Red Bull",
+      "tab": "1",
+      "price": "2500",
+      "type": "product",
+      "id": "2",
+      "stock": "1000"
+    },
+    {
+      "tag": "cerveza_sol",
+      "image_url": "cerveza_sol.png",
+      "name": "Cerveza Sol",
+      "tab": "1",
+      "price": "2500",
+      "type": "product",
+      "id": "3",
+      "stock": "1000"
+    },
+    {
+      "tag": "piscola_normal",
+      "image_url": "piscola_normal.png",
+      "name": "Piscola Coca Normal",
+      "tab": "1",
+      "price": "4500",
+      "type": "product",
+      "id": "4",
+      "stock": "1000"
+    },
+    {
+      "tag": "piscola_light",
+      "image_url": "piscola_light.png",
+      "name": "Piscola Coca Light",
+      "tab": "1",
+      "price": "4500",
+      "type": "product",
+      "id": "5",
+      "stock": "1000"
+    },
+    {
+      "tag": "piscola_redbull",
+      "image_url": "piscola_redbull.png",
+      "name": "Piscola Red Bull",
+      "tab": "1",
+      "price": "6000",
+      "type": "product",
+      "id": "6",
+      "stock": "1000"
+    },
+    {
+      "tag": "vodka_canada_dry",
+      "image_url": "vodka_canada_dry.png",
+      "name": "Vodka Canada Dry",
+      "tab": "1",
+      "price": "5000",
+      "type": "product",
+      "id": "7",
+      "stock": "1000"
+    },
+    {
+      "tag": "vodka_tonica",
+      "image_url": "vodka_tonica.png",
+      "name": "Vodka Tonica",
+      "tab": "1",
+      "price": "5000",
+      "type": "product",
+      "id": "8",
+      "stock": "1000"
+    },
+    {
+      "tag": "vodka_redbull",
+      "image_url": "vodka_redbull.png",
+      "name": "Vodka Red Bull",
+      "tab": "1",
+      "price": "6000",
+      "type": "product",
+      "id": "9",
+      "stock": "1000"
+    },
+    {
+      "tag": "whisky_normal",
+      "image_url": "whisky_normal.png",
+      "name": "Whisky Coca Normal",
+      "tab": "1",
+      "price": "6000",
+      "type": "product",
+      "id": "10",
+      "stock": "1000"
+    },
+    {
+      "tag": "whisky_light",
+      "image_url": "whisky_light.png",
+      "name": "Whisky Coca Light",
+      "tab": "1",
+      "price": "6000",
+      "type": "product",
+      "id": "11",
+      "stock": "1000"
+    },
+    {
+      "tag": "whisky_redbull",
+      "image_url": "whisky_redbull.png",
+      "name": "Whisky Red Bull",
+      "tab": "1",
+      "price": "7000",
+      "type": "product",
+      "id": "12",
+      "stock": "1000"
+    },
+    {
+      "tag": "ron_normal",
+      "image_url": "ron_normal.png",
+      "name": "Ron Coca Normal",
+      "tab": "1",
+      "price": "5000",
+      "type": "product",
+      "id": "13",
+      "stock": "1000"
+    },
+    {
+      "tag": "ron_light",
+      "image_url": "ron_light.png",
+      "name": "Ron Coca Light",
+      "tab": "1",
+      "price": "5000",
+      "type": "product",
+      "id": "14",
+      "stock": "1000"
+    },
+    {
+      "tag": "ron_redbull",
+      "image_url": "ron_bull.png",
+      "name": "Ron Red Bull",
+      "tab": "1",
+      "price": "6000",
+      "type": "product",
+      "id": "15",
+      "stock": "1000"
+    },
+    {
+      "tag": "jagermeister_redbull",
+      "image_url": "jagermeister_redbull.png",
+      "name": "Jagermeister Red Bull",
+      "tab": "1",
+      "price": "4000",
+      "type": "product",
+      "id": "16",
+      "stock": "1000"
+    },
+    {
+      "tag": "jagermeister",
+      "image_url": "jagermeister.png",
+      "name": "Jagermeister",
+      "tab": "1",
+      "price": "2500",
+      "type": "product",
+      "id": "17",
+      "stock": "1000"
+    },
+    {
+      "tag": "espumante",
+      "image_url": "espumante.png",
+      "name": "Espumante",
+      "tab": "1",
+      "price": "2500",
+      "type": "product",
+      "id": "18",
+      "stock": "1000"
+    },
+    {
+      "tag": "bebida_lata",
+      "image_url": "bebida_lata.png",
+      "name": "Bebida Lata",
+      "tab": "2",
+      "price": "2000",
+      "type": "product",
+      "id": "19",
+      "stock": "1000"
+    },
+    {
+      "tag": "jugo",
+      "image_url": "jugo.png",
+      "name": "Jugo",
+      "tab": "2",
+      "price": "2500",
+      "type": "product",
+      "id": "20",
+      "stock": "1000"
+    },
+    {
+      "tag": "pisco_blanca",
+      "image_url": "pisco_blanca.png",
+      "name": "Pisco Bebida Blanca",
+      "tab": "2",
+      "price": "4500",
+      "type": "product",
+      "id": "21",
+      "stock": "1000"
+    },
+    {
+      "tag": "pisco_tonica",
+      "image_url": "pisco_tonica.png",
+      "name": "Pisco Tonica",
+      "tab": "2",
+      "price": "4500",
+      "type": "product",
+      "id": "22",
+      "stock": "1000"
+    },
+    {
+      "tag": "whisky_blanca",
+      "image_url": "whisky_blanca.png",
+      "name": "Whisky Bebida Blanca",
+      "tab": "2",
+      "price": "6000",
+      "type": "product",
+      "id": "23",
+      "stock": "1000"
+    },
+    {
+      "tag": "whisky_tonica",
+      "image_url": "whisky_tonica.png",
+      "name": "Whisky Tonica",
+      "tab": "2",
+      "price": "6000",
+      "type": "product",
+      "id": "24",
+      "stock": "1000"
+    },
+    {
+      "tag": "ron_blanca",
+      "image_url": "ron_blanca.png",
+      "name": "Ron Bebida Blanca",
+      "tab": "2",
+      "price": "5000",
+      "type": "product",
+      "id": "25",
+      "stock": "1000"
+    },
+    {
+      "tag": "ron_tonica",
+      "image_url": "ron_tonica.png",
+      "name": "Ron Tonica",
+      "tab": "2",
+      "price": "5000",
+      "type": "product",
+      "id": "26",
+      "stock": "1000"
+    },
+    {
+      "tag": "espumante_redbull",
+      "image_url": "espumante_redbull.png",
+      "name": "Espumante Red Bull",
+      "tab": "2",
+      "price": "5000",
+      "type": "product",
+      "id": "27",
+      "stock": "1000"
+    },
+    {
+      "tag": "promo_ron",
+      "image_url": "promo_ron.png",
+      "name": "Botella Ron",
+      "tab": "2",
+      "price": "40000",
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "ron",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "19-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "2",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": "28",
+      "stock": "1000"
+    },
+    {
+      "tag": "promo_whisky",
+      "image_url": "promo_whisky.png",
+      "name": "Botella Whisky",
+      "tab": "2",
+      "price": "50000",
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "whisky",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "19-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "2",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": "29",
+      "stock": "1000"
+    },
+    {
+      "tag": "promo_pisco",
+      "image_url": "promo_pisco.png",
+      "name": "Botella Pisco",
+      "tab": "2",
+      "price": "40000",
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "pisco",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "19-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "2",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": "30",
+      "stock": "1000"
+    },
+    {
+      "tag": "promo_vodka",
+      "image_url": "promo_vodka.png",
+      "name": "Botella Vodka",
+      "tab": "2",
+      "price": "40000",
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "vodka",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "19-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "2",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": "31",
+      "stock": "1000"
+    },
+    {
+      "tag": "promo_jagermeister",
+      "image_url": "promo_jagermeister.png",
+      "name": "Botella Jagermeister",
+      "tab": "2",
+      "price": "40000",
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "jagermeister",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "19-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "2",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": "32",
+      "stock": "1000"
+    },
+    {
+      "tag": "promo_espumante",
+      "image_url": "promo_espumante.png",
+      "name": "Botella Espumante",
+      "tab": "2",
+      "price": "25000",
+      "type": "product",
+      "id": "33",
+      "stock": "1000"
+    }
+  ]
+}

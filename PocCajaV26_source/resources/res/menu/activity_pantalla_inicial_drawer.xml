@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:icon="@drawable/modo_recarga" android:id="@+id/modo_recarga" android:title="Modo Recarga" android:checkable="true"/>
+        <item android:icon="@drawable/modo_devolucion" android:id="@+id/modo_devolucion" android:title="Modo Devolución"/>
+    </group>
+    <item android:title="">
+        <menu>
+            <item android:icon="@drawable/ver_trx" android:id="@+id/ver_trx" android:title="Ver Transacciones"/>
+        </menu>
+    </item>
+</menu>

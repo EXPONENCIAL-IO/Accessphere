@@ -1,0 +1,1392 @@
+Manifest-Version: 1.0
+Built-By: 1.3.0
+Created-By: Android Gradle 1.3.0
+
+Name: res/layout/merge_camera_preview_view_finder.xml
+SHA1-Digest: UUMYjME8p1P+sgx0mE4d10laOWU=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: DK56Y6UjLNHOo/ha0XddWTzD+NE=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: GnT22Uh8XozObRvuJwbfo+2p7O0=
+
+Name: res/drawable/ico_doc.png
+SHA1-Digest: sO3rVKufdpIw20KXdyaMLBRA0AU=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: NJuMq0n7Coq8s/ff6QHhDQhI9uw=
+
+Name: res/drawable/promo_pisco_off.png
+SHA1-Digest: Qs7/8ulvDQMnlgQZk5MeHCHTtlU=
+
+Name: res/drawable/banner_app_sundeck_3.png
+SHA1-Digest: 3KmIHpWrUfOITEa2vMmQWVOOcyo=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: HSo66NSY39XTXO777pXaLU1UHYM=
+
+Name: res/layout-v17/lista_item_header.xml
+SHA1-Digest: /C0zkfLzWYP0ym2vNKUVVuFIRaQ=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: +bjkZfnp7jH8HvA5wzYQ85O04Ic=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: IuYI5vQjWWP1qL2ucpoSX2vYK8Y=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: bc4cHrfDdreRI9LavnblRLzCjDk=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: xkhp1rcZD/R/IbP6gh4QPtAh5cY=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: AppXOewxC/QI7e8k90KnlawH5MA=
+
+Name: res/drawable/pisco_mistral35_4bebidas.png
+SHA1-Digest: zqfn70BPNvYSxjlQ4T558YPFLG8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: +3A3jUbzRBRBAJ8oRmGYp+sMfXc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8pvrUMgikaLGOMW8rQ65pwo3A2E=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: tpEM52vWcakmOwaErjJ4ZPrPYyg=
+
+Name: res/drawable/pisco_blanca.png
+SHA1-Digest: wbAVScAgGaMSYm7S34+Jdu2oIJc=
+
+Name: res/drawable/espumante_redbull_off.png
+SHA1-Digest: hFcnC9m9hanwybXSAu6N+6uomB0=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: 4E9JeU58Zc8aWe6oJUF7I3RcwbE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: yP2hhhdWfqPQ6VTBFpcZM+5I8sg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: dgOODFlTpfHDDTUL6xuLQSdAG7w=
+
+Name: res/menu/menu_seleccion_productos.xml
+SHA1-Digest: WPlhu9pFIGKr0/T7O9x0sXNDzOY=
+
+Name: res/drawable/ico_delete_disabled.png
+SHA1-Digest: RRwgQoYV0QiD4rZWNvq87EV4I+o=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: IVjsZMMVr/ce0JFlSQDbVTn2lZ8=
+
+Name: res/drawable/img_deseleccion.png
+SHA1-Digest: 7YKVnw4yN3jl5gW+b4TgaV66oqg=
+
+Name: res/drawable/cerveza_sol.png
+SHA1-Digest: RjsU0OZ2EkHq0RQFMcPTs/AD9R4=
+
+Name: res/drawable/bebida_lata.png
+SHA1-Digest: MXAed34Nvp3k4sBWxyARzqwphpE=
+
+Name: res/drawable/whisky_bourbon_bulleit.png
+SHA1-Digest: VkUadpt4PP34LD9icOkOgeI5lls=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: MYhK6MDmNSOEu1U8SfgDMqzNtSc=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: w2cOiKUnGw1xvNTrJqwMSoxTRdQ=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: iN/uNjBfhVbAIr76ujTy7rKk9Iw=
+
+Name: res/drawable/promo_pisco.png
+SHA1-Digest: 34erwkS0oIt2pLVEEdTzqqWt+ac=
+
+Name: res/drawable/monto_calculadora.png
+SHA1-Digest: ui9vKgTmlWK7Z3UrOdq5ns5T718=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: h7hNXJrcbvKMv9bbGrTrvd0dOgs=
+
+Name: res/drawable/pisco_redbull.png
+SHA1-Digest: KhIoYAmdfaJh5X+nwByhfgzlQeE=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 4HH3Bsrr5QDXIXVKrtF7nXNxySk=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: nRtiU5b/2GCMrB/FhPJC0XFk+lU=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: 21LVrkYeQ5X/ROkyklkgL5qWqrE=
+
+Name: res/drawable/jugo_off.png
+SHA1-Digest: T/WdYBWVT6tSgXmKNcIz100V0zc=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: uyottmZzDUEWjbHtQsMbW4FWg88=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: OmnUaY+p5G6VhFOZbHtleiKe6pk=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: lphK0MqUW1tgxyDhTzQOkhcplWM=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: oqkkj7Dnty0lDbx5jLUBRYLKA54=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: rDjkEjKiK/nrEgQWcUD2KRvUbLk=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: res/layout-v17/abc_activity_chooser_view.xml
+SHA1-Digest: UMlZqBdN9itTGP4fbB3vT4DC0rU=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: SSfkDd03GHGzFODHCiHgDONnwGg=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: +5f5J84eLIoVJmf+raKGpEmYDBQ=
+
+Name: res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: uX86MGhu4M8vmPbtFYpYLNhN0I0=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: fK4DbW2P0iAhOWHu7mrQQYV8Woo=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: 43CFSZrA4bH7N3aQHkhCueTKX6M=
+
+Name: res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: KVPasUIEwylEuHQRSTZ6eGpVtYg=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 7I7bReLRQHlqabBYSFGTaGGtVk4=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: jc4oJEYTLIrf2udsvTHr7e9rH+E=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: JK+SO98DvE2zb2cpp1SVOIO+XsU=
+
+Name: res/drawable/agua_off.png
+SHA1-Digest: 2uHxsZhLP930gsHP6NvenWjFQcs=
+
+Name: res/drawable/slash.png
+SHA1-Digest: fpFS6FDYWWk8nQzbTqU/y6nWS/I=
+
+Name: res/layout-v17/activity_seleccion_productos.xml
+SHA1-Digest: ytDcZtIIa+/CV5+7nLp3C8l8QFI=
+
+Name: lib/armeabi-v7a/libiconv.so
+SHA1-Digest: xHy2MzvUfUkLq6GcGEnPyZ2AhF8=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: res/layout/lista_item_header.xml
+SHA1-Digest: 6aZ94vMai91a/xcfY9gq+Mu+6L4=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: pf9NIIotZsMzZhGmwThV2jglFL8=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: I0fJnm2C40ttgRLhK8Lu19+8io8=
+
+Name: res/layout/dialogo_ultima_trx.xml
+SHA1-Digest: A/a1Osp/OUVRpqLrYjW+VLBCHMQ=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: NhV2sZqVWW5UUoJmNFGXO3uM/A4=
+
+Name: res/drawable/abc_ratingbar_full_material.xml
+SHA1-Digest: sIaPXAHGiBMELuBD5M8P4eT7kgE=
+
+Name: res/drawable/promo_vodka.png
+SHA1-Digest: TXPDZw3x7iksrfhwIGpT7h0XXTI=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: QqPpbBwEr9nywoEL/OHp+2+gZ1Q=
+
+Name: res/drawable/piscola_light.png
+SHA1-Digest: QZmqLlqLqvmSRi1C1U1MvIkWZC8=
+
+Name: res/drawable/trago_generico.png
+SHA1-Digest: j3HsjqFaiPkLcqXai9CBXa0I0R4=
+
+Name: res/drawable/whisky_light_off.png
+SHA1-Digest: PQ7oJkk4cY/W8eR7pBQ9qIH1/fs=
+
+Name: res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: QHJrTKnGAS7xrsv3f4q+dcGKg1g=
+
+Name: res/drawable/whisky_redbull.png
+SHA1-Digest: tErRtJRWjpPtPV44l60bG8GdkOk=
+
+Name: res/drawable/terremoto.png
+SHA1-Digest: TZ6cDP5yZWruV8KjMjG5Q3pWvQ4=
+
+Name: res/drawable/promo_ron_off.png
+SHA1-Digest: n6nIH4iNAvYpYsdq77bQf8I/SPw=
+
+Name: res/layout/dialogo_todas_trx.xml
+SHA1-Digest: B0OIj77dVpoxIs4kJ5jkgelOEkA=
+
+Name: res/drawable/ron_blanca.png
+SHA1-Digest: 11gdlWKttR8xelSr0FqoWtd8dns=
+
+Name: assets/json_productos_1.json
+SHA1-Digest: NVFZJR5yfU/9mli7jV4GTt/+tNE=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: eKx4ZX8uxPQScA0cj5eCO2+ZgJw=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: i9edT4Ogf13v+M0Gf/OCJk7jAIM=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: J10MbRypNxo+JeKfGf61OMkWgdY=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: Mlwb9Wl58hgqZe59BGUFigLas4A=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: amTHp+ttVms8n2SMceDC8FO0aqU=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: W6K3P94iAz0CiSFCp6GiJlxogqs=
+
+Name: res/drawable/ico_home.png
+SHA1-Digest: OyNzwg7aN3aOqf8sWBhTw1kJ9QQ=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: GM6Gg8bygrpDhPd6uqy6G0H7PQs=
+
+Name: res/drawable/piscola_light_off.png
+SHA1-Digest: r3Xl7ugDjBCIVrE3C+gWoaPnago=
+
+Name: res/drawable/piscola_zero.png
+SHA1-Digest: LbfN5h5WNnt6Tx0aL/lVEnebKlE=
+
+Name: res/drawable/piscola_normal.png
+SHA1-Digest: jglmJ7QR1fL8fBg84p1tENEw5E8=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: PqzD1Bva41x/4FJI5xe2uDeGmiE=
+
+Name: res/drawable/vodka_tonica_off.png
+SHA1-Digest: uZZo6tr3bBGlgY6mwmQFpd42uJw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: l8EI8skn68wNTc/ak4rIUV30BMw=
+
+Name: res/drawable/redbull_sugar_free_2.png
+SHA1-Digest: Tk0XxUFYjfbH4BqhNldQI6RWDaI=
+
+Name: res/drawable/ron_light_off.png
+SHA1-Digest: DhE/KtVcP0gqMX5iNVkwv835XBA=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: BVq1bOBmFDayB0wL48mPRe3Q1tQ=
+
+Name: res/drawable/vodka_canada_dry.png
+SHA1-Digest: T6Dlqm5zur7DG1+eDDC2JGRkzEU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: res/drawable/pisco_mistral_2.png
+SHA1-Digest: +Cg2pgjSVyowROKnVvz5LT3UryY=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: TLz0shtwfe+lkIdH+pFYAuOhfeM=
+
+Name: res/layout-v11/abc_screen_content_include.xml
+SHA1-Digest: Q/lT9GKLV3bXiXuQA7Yyr3E3bSc=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: O+RQUse760+V3CvLzvavO24A+y8=
+
+Name: res/drawable/energetica_1.png
+SHA1-Digest: oi9GwOcPyK2+3Z26Xcix+tn0fXU=
+
+Name: res/layout-v16/activity_seleccion_productos.xml
+SHA1-Digest: BmLt86LlJ4Rbq0UGuaoTvoXA2Pc=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: K4NQXuN3zNMN75GJmXTwHZSWono=
+
+Name: res/drawable/banner_app_fauna.png
+SHA1-Digest: wr7b3faI0YHcdBB9QqeAzCbewvw=
+
+Name: res/drawable/piscola_redbull_off.png
+SHA1-Digest: 5PFWhLAi5GDpIhmYZEmJ/MvN5/I=
+
+Name: res/drawable/botella_pisco.png
+SHA1-Digest: 5Y26rpg9p8aN/1XsVSxhK8w8Tq4=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 2gdfs4MdNrmZ5fPzRYQKwf3z8nA=
+
+Name: res/drawable/ron_bull.png
+SHA1-Digest: NsH07jcT5zZLYJoUCKV8rxF6IJk=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: Yn/foyTGGk0p/XduTeJatoNSwKg=
+
+Name: res/drawable/banner_app_sundeck.png
+SHA1-Digest: t1RLG3MswM62rGEL/lRsxhqqyTA=
+
+Name: res/drawable/ron_light.png
+SHA1-Digest: 076G6Z88bAWq3RyXzn7G3K0ci8Y=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: +hQHRfqXhpFuiFem/GsEBO4D63o=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: UrMd5Q/nT3zvFgkiyUUEZqSex7A=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6eRtpYyE2B45gWd2aZtCG4kO5FM=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: res/drawable/whisky_normal_off.png
+SHA1-Digest: h/gkkpXsCCffCM4SylQ29VtnF34=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: j2NWST7vEd6i0CVDqQ9UCzVtf+4=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: rG5iJ8LJqs0d2oExcr38IP+z/7s=
+
+Name: res/drawable/pisco_blanca_off.png
+SHA1-Digest: rhU6dkqgxbiW0ds+TjdqB0dktos=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: H3IfE7NWe2qX8Lw8zD2tmCu/mjk=
+
+Name: res/layout-v16/activity_resultado_compras.xml
+SHA1-Digest: nvzYu4ymyKZL3lSEsd35UHAbP7Y=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: 74O/Mw/jO7OeYzy+2PfbEUDwD/k=
+
+Name: res/drawable/promo_jagermeister_off.png
+SHA1-Digest: WcHx/XkdGYhQqutU/gFNWjkwt+E=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: aLOtkEElPKVQnb/x08i/wBkFiH8=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: PIrE1bETED2AcFA+Z0PCJDOewO4=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: 9K5K+P5NITTuA8xes+N86etfzxw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: RZEy8bgWVKqrQaQC1gEYgTL6BbA=
+
+Name: res/drawable/promo_vodka_off.png
+SHA1-Digest: VtY3+3AxIxUjWQGITui/eAY3zyU=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: sUOdLM+AWyvtOVlO9a22Me8HW3s=
+
+Name: res/drawable/cerveza_heineken.png
+SHA1-Digest: MrsU79/mJVGdYi36XJVJu0stGQ4=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: I2JJHnuKjt9jtF8C76fBatEScaE=
+
+Name: assets/json_productos_old.json
+SHA1-Digest: Qp+Ad5sZLsYNXupkqr6yKgrAvFY=
+
+Name: res/drawable/ico_enter.png
+SHA1-Digest: 9p2mHf1VrNVR0nt8AMnfiLgE0Bc=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: 6kDKAFhVEOkC4+4MhYD3DT/HWTY=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: T5slVQklwytRhhFRjSw66UZR3vQ=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: StjC3BA1LtHVLp7GTDic4k0PU08=
+
+Name: res/drawable/ico_error.png
+SHA1-Digest: 6HqyaUZvxaRWozKT3GLOwTp8tPs=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: c6UHlDP2WF/CTLcgoeTY3w+h0DQ=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: Ctu9p40E4P5fvzBufyBMmPaVWbA=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: B+cN6iKZSO8ykyZHYqOhXoO7dJA=
+
+Name: res/drawable/bebida_1.png
+SHA1-Digest: cTT4BaMABFoaaFDKDaWOx1gOJ8w=
+
+Name: res/drawable/red_bull.png
+SHA1-Digest: 7eFR6y9yrOe8DIBq0Lnr9MMIJVE=
+
+Name: res/drawable/vodka_tonica.png
+SHA1-Digest: ueKg2kIVfB8fJv+tHFyntME8ye8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ZJdegNxLApM/syytmDiyvh/WySg=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: nNpQ2cq1fhlyzVMZB6yre+ujuJw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: E74c3aj78MFnidZIhyjcbYdMtVs=
+
+Name: res/drawable/promo_jagermeister.png
+SHA1-Digest: unaJnjp48VTvi6k84L7KqioIXlQ=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: qQpaYoGWL908h/WoyV81hrJSp9E=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: lsCLR2XlXhS2SIGQjEcPfWqirCQ=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: zP8W9ch/ufz43J399NnTIamo6Vc=
+
+Name: res/drawable/bebida_lata_off.png
+SHA1-Digest: xiV2MIU+v8Z1tyOU9kVgfGzjk2s=
+
+Name: res/drawable/pisco_mistral40_4bebidas.png
+SHA1-Digest: a5Dgm+KxxVy/ZJMjjZ60lnPSM58=
+
+Name: res/drawable/whisky_tonica.png
+SHA1-Digest: nsbOH9LvKtbET0UTW5ddQISovF4=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: FKBaA6PjgQ3zVmSp+uVdaMn4w3M=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: QQv9qz5UEi8ZPFgKo6Yvj2MsHqY=
+
+Name: classes.dex
+SHA1-Digest: 6LhCYEn6GPF2Nw9tu8CuLKyfX5I=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: bJSIrPDUv6qP2TSc3r2uqtew4lE=
+
+Name: res/drawable/wrap.png
+SHA1-Digest: Smq4V4rplE+/fKsl2LHJSy4PVc0=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 99b1k6o3uE4SJ+yIBAjga+3czGs=
+
+Name: res/drawable/jagermeister_redbull_off.png
+SHA1-Digest: S7cBCDuOrhN5v1RUAOK+/a7C9rc=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: A92PbPheHa+C5hP2bAXLmZFjEYY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: lE9emiDkxOmBmaNeDovU1EZQC2A=
+
+Name: res/drawable/cerveza_sol_off.png
+SHA1-Digest: j8msCL2lKNSZucGXbr42vGZr0aY=
+
+Name: res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: mKelBYxIm5wlrcb8sZ5VCCPnGJs=
+
+Name: lib/armeabi-v7a/libzbarjni.so
+SHA1-Digest: K6FLkH7tkm1QT1XMMzo/URRYpJY=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: res/drawable/redbull_sugar_free_off.png
+SHA1-Digest: kx7ShGaBY7FpBbgyCWzW8HFq9JI=
+
+Name: res/drawable/vodka_absolut_bebida.png
+SHA1-Digest: bFdujiOTIxe2ZXRVCNQ5lVdoZAU=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8UdqvLb0HOmVMH2qCnY9uOrXQWM=
+
+Name: res/drawable/corona_light.png
+SHA1-Digest: jABcAAfMzFOcFKzt6Jdj/TpJLr4=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: v0iWBlI5czWXCEaTRPjNNmieAL8=
+
+Name: res/drawable/logo_evento.png
+SHA1-Digest: CzTqssu/VGrw2/NcK6BhsldC91I=
+
+Name: lib/x86/libiconv.so
+SHA1-Digest: JdeI8r+enIO8miZIS/lptcnUEh8=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: FHCsTwuTNTPGmGaj9wS5Cf8LnZE=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZyFTNu8NFk5e/z1RVkprfr1u2DU=
+
+Name: lib/x86/libzbarjni.so
+SHA1-Digest: U6AlwWQvLzLObywegzNGEOcCJGA=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: IQigDcUqx/ZENd/r5p3e7r0Ftvc=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZCWbX0fQHZsWK6AU9JmOADI6oXA=
+
+Name: res/drawable/pisco_alto_del_carmen_redbull.png
+SHA1-Digest: p2z6uiaSmyfJifdMwWNaCmJISi8=
+
+Name: res/drawable/terremoto_off.png
+SHA1-Digest: aQVGxZnZx1nhEGBHc4KZLw3uTzk=
+
+Name: res/drawable/vodka_3.png
+SHA1-Digest: suLX2CE1Jwf+HiQ1FjwP+MVSJVM=
+
+Name: res/layout/dialogo_cambio_modo.xml
+SHA1-Digest: iepPUZdDalzRFYDGGwi7AIaiY88=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: Kt5Py8gmqS/Ew/Rs8Jsl2K4AdeM=
+
+Name: res/layout-v17/lista_item_trx.xml
+SHA1-Digest: qoiLduN/jtHowHTF3tuQW/EFx98=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: pBR99OG39RSH5mvInfhWhS5HH80=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: B9h71KmJtKnJT3UbphASyuniHYA=
+
+Name: res/drawable/pisco_mistral.png
+SHA1-Digest: op5Ox4S04Ff7BvhVFS+6Uvq1Zn8=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Txi4nHde0NvRVGH4WjelV6dyOKU=
+
+Name: res/layout/activity_seleccion_productos.xml
+SHA1-Digest: 8H9Uc/zoygoBVNSRtElOHfaac8U=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 0MMPUBC/hxFmt1Ak92Vmj3X0hfs=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: tbKOWkoq8X/O9SqZLE2Z7VwIrfw=
+
+Name: lib/armeabi/libzbarjni.so
+SHA1-Digest: ren0td0tLSevhE2QptiO7WgD8Tw=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: NGRBMy4vV+zI+fdsU6lTKdDIoIk=
+
+Name: res/drawable/aperol_spritz.png
+SHA1-Digest: XqiDA2ldEFUrAtEbKg9Azr3EC7E=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Uaax8TsSlV1ssfdd4JM/P9lAyjc=
+
+Name: res/drawable/espumante_amaranta_redbull.png
+SHA1-Digest: WTEeoye6kgN6ztbPnxf9e0gL3pI=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: QZ9FkSY1uLrLNUoYvFP8D6yQGLQ=
+
+Name: res/drawable/espumante_amaranta_2.png
+SHA1-Digest: cTc+7hPpqCCNzyP/kKu03jGGnKQ=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA1-Digest: e4+xS2IHT21cqoB/yQU6OyS1b7o=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: 7SvCci0INckFwEKhYVO98gRgQwk=
+
+Name: res/drawable/ico_delete.png
+SHA1-Digest: o2ikh6LOlwxpROre6UQDuFTG3GI=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: HbS7bZl1Ei75cnz675LU3TM55ww=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: YsHF4VJihRr1oEZ76cu42zsHjek=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: sMc/w7TuvKC0TlJaUgB/DNZY3E8=
+
+Name: res/drawable/pisco_mistral35_bebida.png
+SHA1-Digest: Q4i5I0S5ZS+/xU170hZn2j7DjnM=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 3vEw5lfFZlWT6Swrx29rYcuu/h4=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QluevaTHgv86WnKHj0Dyu1BcXpk=
+
+Name: lib/armeabi/libiconv.so
+SHA1-Digest: 5YMIinkRXAQywIAiFOzhHNYk29Y=
+
+Name: res/layout-v17/dialogo_configuracion.xml
+SHA1-Digest: To2MLTJSd5bXfV1GGTqa0TqEmF8=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 2SSuJk3m1pafpmf81TSs7M6iuf0=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: L4dPFtkHsZTQXRNOy1sBRom3amI=
+
+Name: res/drawable/aperol_spritz_2.png
+SHA1-Digest: mJ+zImBBycwq5OeIMxXP/SAvzcQ=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: BLQq1kPx0/JPxPxgp/MrxD6Ft1Q=
+
+Name: res/drawable/vodka_absolut_4bebidas.png
+SHA1-Digest: YIvnNH4rbQSMS1xOy4olLmzx9ZQ=
+
+Name: res/drawable/jagermeister_redbull.png
+SHA1-Digest: 08Vf/7H71t5KEcny5cnpBfg+AmQ=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: VGMW9qiaWlu7OsYPKl/hPbRdfs8=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: j4YCzt0aE3XiVuR90dIkNXUHnHE=
+
+Name: res/drawable/vodka_redbull_off.png
+SHA1-Digest: fL/FGQp5uS2ZMGhf7H92LIhWLdo=
+
+Name: res/layout-v17/activity_resultado_compras.xml
+SHA1-Digest: 3J/PyJwzY1j/Dw6AUob4ikUpBto=
+
+Name: res/drawable/icono_barra.png
+SHA1-Digest: KayGnJ6B9jqHbfUb7iBytqk6aKI=
+
+Name: res/drawable/redbull_red_2.png
+SHA1-Digest: EiZAEahMoZeQFJDRFlhmkqgKRhQ=
+
+Name: res/drawable/whisky_blanca_off.png
+SHA1-Digest: zuqPeOFhNnb7DFVCZKiobkba4XA=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: sSd73UlwBBESVH63lNNrS2c8dsI=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Liu4ZSvXVbRTfKfw/Sf1BCXStdc=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: stIAi0l6do5PtxTEEt+OuazTScA=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 8QLweU4p1rehkS9Zii3jepzESPg=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: dT9O498/3E1mpkpzpSmdy7tcxxU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: vq3AaVX19jU0c0v1npZsAQOh+CI=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: RMsgj4KJpKAEXVBRBwDt8FeaMY8=
+
+Name: res/layout/activity_resultado_compras.xml
+SHA1-Digest: nKgad1fRsedvPoz915OmkJWExFE=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: sSo2eVyCVNeDBah+XyDsR3c+eao=
+
+Name: res/drawable/ron_blanca_off.png
+SHA1-Digest: 5uXgdWsDgnTj01W+CZDlcYyYk40=
+
+Name: res/drawable/redbull_silver.png
+SHA1-Digest: Uo0QPsxDKsumg7mPPTNkfjLbCMc=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: rBBvnGEEgdETBrMQyET5EQQ57f0=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: CyHUb+nEtXS5lCR5jTCXKlZ0AzU=
+
+Name: res/drawable/jagermeister.png
+SHA1-Digest: Vrc+JY9DRHCxwJ3eqtG13is4ppo=
+
+Name: res/drawable/ron_normal.png
+SHA1-Digest: swHWiK80EtQyvLjjHNU4cScKfYA=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: djKFkDkWGPg2BYwzFGu3ANv+SXQ=
+
+Name: res/drawable/ron.png
+SHA1-Digest: vITGs+1+JYA3F4jf65HKMbETVh8=
+
+Name: res/drawable/ron_redbull.png
+SHA1-Digest: T3VhJQXAAH31YIsMPuO8rZBo/Vc=
+
+Name: res/drawable/redbull_silver_off.png
+SHA1-Digest: pKujo5nqT86lBE04k0XSA7fxSxI=
+
+Name: assets/json_productos_2.json
+SHA1-Digest: VzmihBaj5RcmYYXr7z37lExPFVg=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 53DYKltMU34zhaYZHtlNZkme+Co=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 6bGD4jGKEnE3B0EkCpW5Emm9up8=
+
+Name: res/drawable/whisky_jameson_4bebidas.png
+SHA1-Digest: sKQmsaGLOfSAVvnFZzM7RD0tMek=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: CT87uAFW2S+oSiDq6Ta7ae0xJWs=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: S/+WIalIT7QGoZ4J/VOqr0XEGEM=
+
+Name: res/drawable/jagermeister_off.png
+SHA1-Digest: 3MkS2h0zdvd+HWkdGNlvKBhxUzg=
+
+Name: res/drawable/redbull_red_off.png
+SHA1-Digest: sn11qoX01w/E3RRuIaqJaA1OlhY=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: D6dilO+UMcglambujyMOhNbLZuY=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: OAENqlhuFQlLjktfjmSO6+y1E8o=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nhOdszX2MHoKx6H7uBb+tEWPyJ0=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMkP0OZqp3er4oTF2Gl+RImzkzI=
+
+Name: res/drawable/agua_2.png
+SHA1-Digest: LZ9Q2uiIj8VAYuFFWKHG2pqw7YE=
+
+Name: res/drawable/espumante.png
+SHA1-Digest: GpowUYlY7nAE/hbtt6000K56EKQ=
+
+Name: res/drawable/pisco_tonica.png
+SHA1-Digest: pS5/azfMdBpTlR7cyjd088HyDos=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: UUxRmYqXEc9TrWGYWGKr3U/0cKs=
+
+Name: res/drawable/whisky_jameson.png
+SHA1-Digest: TxvHbyXi2SEJIrGphu/QXDPJxlY=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: F15Y7TDgoQ90hOj/LqmJmzvUv5I=
+
+Name: res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: /c5bL7iVveqlG+34t96HN1xBRuc=
+
+Name: res/drawable/ico_back.png
+SHA1-Digest: vgmxSeL5Innfzu8u4/I7zfmuVEI=
+
+Name: res/drawable/corona.png
+SHA1-Digest: abXYcbnMo81Gq8sro7S+nxoBTj0=
+
+Name: res/drawable/pizza.png
+SHA1-Digest: GB2aZ0t8PcFh9kO3AMbWitXTzIQ=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: xeutaZvABw40/AIzFqNqXOs2vyw=
+
+Name: res/drawable/banner_app_40.png
+SHA1-Digest: f1dGA16d0o09wLs+41e1N3wophU=
+
+Name: res/drawable/ico_enter_disabled.png
+SHA1-Digest: XGA4QvCyWp59qfv+kpSRMmARsqo=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: hjf9hvwtitJD8jRTc+L89zr4i1I=
+
+Name: res/drawable-v21/abc_cab_background_top_material.xml
+SHA1-Digest: 7Z3cYWVNpQVa6qFNkJlUHQyVmik=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: k0FMguOXHvmVqqQT8jnVO1rQacs=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable/espumante_amaranta.png
+SHA1-Digest: h2VK0UaX8oPtId6LNjimhapzpSc=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: jRDpYM91mjqHK5ma3wpm8URdz+w=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: JgtbCzC5/9OcTKBYUrzz3vLJ/ww=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: cK/LCW7Y07tXQ8e5BdotU64US0I=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: tOuiTf7qLHudHHS2BEMDpwatMcs=
+
+Name: res/drawable/jugo.png
+SHA1-Digest: nftAjdausx6qSfvCApOyjivV3Cc=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: Op0TlcAis76wcAc4cgBZg0OiWas=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: TtBU8d63+I+lSLj+Tm5DZvZ5i2c=
+
+Name: res/drawable/pisco_mistral40_bebida.png
+SHA1-Digest: xMIit0KTFcaqOHCKX1IcelhkdhU=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: WQ1ThPXpfRu1sDbLcIYDHAWax0o=
+
+Name: res/drawable/ron_tonica_off.png
+SHA1-Digest: V80l04BrKYqnRjs55zhbLu0cFRE=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: WXKtpz66pJSKelShj899BDnb29U=
+
+Name: res/drawable/ron_2.png
+SHA1-Digest: yfMibKEBccCr9lu78QAGnYjrbAY=
+
+Name: res/drawable/redbull_blue_off.png
+SHA1-Digest: 8go6JSMuneiPCAmf65iiF4NCyjo=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: zZurrSYAwBsyNtHv58yh4NOk06U=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 8TGvVLbABMGx0gU3ldKg01URLyQ=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: res/drawable/red_bull_off.png
+SHA1-Digest: 0crFpcESVwNyNV+/U95fVi/JTP0=
+
+Name: res/drawable/ico_next.png
+SHA1-Digest: rxyke2H53IP4GAvPbtF+l1hwnic=
+
+Name: res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: W43Punvqo2fBC25d9EZ4Fcvhnqo=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: Bv9tm41JQtGQ+LTyKeRDhV81r4w=
+
+Name: res/drawable/botella_generica.png
+SHA1-Digest: jBeHiaDYn3+m5AOULvDBJNud7sA=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: 3/V70VS4FuQQoCawksAvAWwj4JI=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: rzMvBNO7qXZsiGIkazfnE1fvV/o=
+
+Name: res/drawable/shop.png
+SHA1-Digest: mxj2/I/yxvMnO8AGrluQSoV6RqM=
+
+Name: res/drawable/botlella_espumante_amaranta.png
+SHA1-Digest: bos/3y2akpCuEXtTBkCkQqBFU5o=
+
+Name: res/drawable/whisky_light.png
+SHA1-Digest: SX0uHo33rgP4PEXfCEVxDhaoxaE=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: rSv1DhC6X4oie9qro50Ohfy7FA4=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: lFwWIsf1l1uVpW1Xm0iz19TBZG0=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: Gr88G2zQ2X0grlFxAco+5IsVZzU=
+
+Name: res/drawable/ron_havana_4bebidas.png
+SHA1-Digest: TG179S6uIz7Ya9Ta6Z8DkPaAj8Q=
+
+Name: res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: +XwNOsyv2DWN30GlWVSISZnhYYI=
+
+Name: res/drawable/whisky_jameson_redbull.png
+SHA1-Digest: FIxO6UnMk4G2SV57GXZ8AC+N02k=
+
+Name: res/drawable/whisky_ballentines_bebida.png
+SHA1-Digest: wfFxEufKAJMN/bhr8jBsbOhe0Qk=
+
+Name: res/drawable/botella_ron.png
+SHA1-Digest: LxLmtW9kPMtgbvHBjlooDSmfAlU=
+
+Name: res/drawable/ron_havana_redbull.png
+SHA1-Digest: UuQ3lVhjHH8kZfqcDLkN+LIBf1w=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qyyA8++tpZMeE5woicJ8hRb+SDY=
+
+Name: res/drawable/redbull_silver_2.png
+SHA1-Digest: uySKogev5c3r1uYsjQ6owZZ5kdA=
+
+Name: res/drawable/ron_havana_bebida.png
+SHA1-Digest: pFnYdUc1D/Av3exdJzoR4WsCe2Y=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: z0xEJNNl6qN3MKa3Uq4y93mF7Cw=
+
+Name: res/drawable/botella_whisky_bulleit.png
+SHA1-Digest: 5cuk8/eal2JTvPJ5ZZWR5vEWvoA=
+
+Name: res/drawable/redbull_sugar_free.png
+SHA1-Digest: nUkoJ64nGnYQ5lhENTZc1XGW4wQ=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: h591GjAtEZ+scBz50reA/1QaVeU=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: ZGa5KUTOdSU2J4s2wiAg6YjzYjQ=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: mKb40R7xcuZM96zo643mq8SVoL0=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: KNgaBl1KV/4hqZf2mRSkhqFvYpI=
+
+Name: res/drawable/vodka_sky_2.png
+SHA1-Digest: uUsMHPwvdeEOrAD8sQQtso1KK+M=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: s4uIGxiw82Eldwc4SK5gHwRLmgU=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: KhYs3OgngrsQpHbyXG/jm5H+8wU=
+
+Name: res/drawable/vodka.png
+SHA1-Digest: T7NUItVjnIreeBwcIZJvUh9UxgE=
+
+Name: res/drawable/piscola_normal_off.png
+SHA1-Digest: inur2v+QjYEWa7/P1dwNYRA43qs=
+
+Name: res/drawable/bebida_lata_2.png
+SHA1-Digest: 3UPZk8ZQ7KBucDGVoHOakPIIjtA=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: YqAnXW8yptDUHifowVO5AR2RoGs=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: NKiwT1Cicrvb5S9HSLoNH7C2DQY=
+
+Name: res/drawable/whisky_tonica_off.png
+SHA1-Digest: AvOgdggffm98dzqVUOVKxf2b1Go=
+
+Name: res/drawable/ico_next_disabled.png
+SHA1-Digest: qQeYsddECkxeuziflPIOnbnU5k4=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: LtbtUBktrXgavDGP03qAntHQ/us=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: deH5E0yKjBo6CYdnvx70e1ZcVb4=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: m5ZFB8xM9wLJXlv+RqbEVelyZ9M=
+
+Name: res/drawable/promo_espumante_off.png
+SHA1-Digest: cBr89Ha0G2n7YVW3kWLR0tF9NS4=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: 0aZCnWRDvk/w5pzK5QQc0tyxtHc=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: m49lll8jU9dPlQfLjt2rimF8PQk=
+
+Name: res/drawable/ron_tonica.png
+SHA1-Digest: ZPP3JAMQ0orMXDo4pFTSVMohTYY=
+
+Name: res/drawable/cerveza_heineken_2.png
+SHA1-Digest: +g7wbS6stflM0b/R+MYdq0cJ/g8=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: B7pVB9op5+qEpX6D3qSKBWquO8w=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: IRY9orSUNBiHDRmCdZDLwsHlvFM=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: ivaTCfBR/9/xdUOYU0Y9t9A9BkY=
+
+Name: res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: /2mBmivLSyY7rFj/FYlp78++b/g=
+
+Name: res/drawable/whisky_redbull_off.png
+SHA1-Digest: fkJPadPLPaqKNs1q51ktx/DDLFA=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: igV6Z9qyPsoUBNkEZPzj+DDt0kE=
+
+Name: res/drawable/agua.png
+SHA1-Digest: YV60co6dO1qb42RWhFaBEhV3T9I=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: z7zwna5/785Ly8ahNPOE2jNcEWg=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ejUHf+Zq02w7OdVBf+PoNjou6Xc=
+
+Name: res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: 3/M33ElldnGYpXd83Qxt6UHPIg4=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: SJGqgQ03I4Lll5vmMETj1ZIac+I=
+
+Name: res/drawable/banner_app_sundeck_2.png
+SHA1-Digest: MVbjf6Yo4HzT/HnRxAygYNpiBkM=
+
+Name: res/drawable/whisky_bourbon_bulleit_2.png
+SHA1-Digest: otQnK/QMW4XA8OPic0Wf8MLtG68=
+
+Name: res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: F5P0P5x15oLSQ50Yn8x7hPMmw78=
+
+Name: res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 3PaqrIbYXWJg4tMXULVMzvNu3Qo=
+
+Name: res/drawable/piscola_redbull.png
+SHA1-Digest: 30syvPpilYOUC/ymWaqudiTOIVE=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: qFfG6dXcF1UdzYPLJ5SEjR/3CiE=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: 7CqVOyHNJEStoPGOsxgrbvrA5uo=
+
+Name: res/drawable/ron_bull_off.png
+SHA1-Digest: 3BOcoOcwwND8JRZPbuBHGcB/JKQ=
+
+Name: res/drawable/vaso.png
+SHA1-Digest: nwi5NjTWgpqEJTZAFLcKom6QBwc=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: res/drawable/hamburguesa.png
+SHA1-Digest: gaCtWpdIBs7nDY4/1ATZ3/0qUI0=
+
+Name: res/drawable/espumante_off.png
+SHA1-Digest: +/zY0zpjJeJMdvjm+zRrXANZqEY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: H5lDzV2Zw0y5I4W+edSWTSrKjWg=
+
+Name: res/drawable/postre.png
+SHA1-Digest: HED2FKxZWBg4b3Qsgr6IrvAV7WU=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: yNy/0nbqv1m6g9WaanRcTwPjDmE=
+
+Name: res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: gzqpohXWJM2gFnRT3iBL2AD2vm0=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: Ay1qOaJ2aLiCf8NAaujbkp0H1cQ=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: 1TJm8lsORcIzispBRLsm/49FBKQ=
+
+Name: res/drawable/redbull_blue_2.png
+SHA1-Digest: wnyuD6aWRlVlsDQGgLPqdpUpn3E=
+
+Name: assets/json_productos.json
+SHA1-Digest: rbg3aoM4ZjipWhKhpA/dHdO1lzE=
+
+Name: res/drawable/vodka_redbull.png
+SHA1-Digest: q54gqKtRuUosOSdC3WMDwqdPpls=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pxni+y0etDEj2lBgg/0qLkhIOdk=
+
+Name: resources.arsc
+SHA1-Digest: wK6KnKdE0tZyRumL1SXN1llAOjk=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: W5TvXvoCtsDZ8z420pI8yCW94Yc=
+
+Name: res/drawable/redbull_blue.png
+SHA1-Digest: Re+JroVAOyJTRw4AEks4RbqpGjo=
+
+Name: res/drawable/vodka_absolut_redbull.png
+SHA1-Digest: hCFK09dEs8ocSIkaL7DI45JvASA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: NIDt6KLeR4flVU1rLpOw0SWN48A=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: AZkWQ0ul/uDfDDOlWBYRDPPEjfg=
+
+Name: res/layout/abc_simple_dropdown_hint.xml
+SHA1-Digest: 9QsIz7oIlTWay0j7V/AhOBXdPX8=
+
+Name: res/drawable/redbull_2.png
+SHA1-Digest: wstuGbYXLnWsQuFnvBxnF+Xmpek=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: VE0vxy/X/Rwq9BE+tSNE49yC7bM=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: aIFGD4aWw70MeHtVt1Wws4WgpJM=
+
+Name: res/drawable/pisco_alto_del_carmen35_4bebidas.png
+SHA1-Digest: lnTK+AK6rB6D2JM3pNY0x2VT96M=
+
+Name: res/drawable/ron_normal_off.png
+SHA1-Digest: Szyt/bvlfTSin7mssguwGL0pC8Q=
+
+Name: res/drawable/vodka_sky.png
+SHA1-Digest: O37P2ajA/0mu6RMe+ehR10SMR+w=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4oU1S0T6qbsEVVg1vrykxhO0l2Y=
+
+Name: res/drawable/espumante_redbull.png
+SHA1-Digest: o0wk/ZMKhtbSdfU5VOEaCmt8wSA=
+
+Name: res/layout/lista_item_trx.xml
+SHA1-Digest: LpO8+q7fTRggj//45wFB82fnYPs=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: xzR4QYhDLijnhAqvCWT+8WMmqNQ=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: res/drawable/whisky.png
+SHA1-Digest: imerdOUMs62owqe29+eYD5HNPc8=
+
+Name: res/layout/dialogo_configuracion.xml
+SHA1-Digest: KY0VUgEMLPWhftyEGk0XBd5M+KM=
+
+Name: res/drawable/redbull_red.png
+SHA1-Digest: TU2XY6az3cL4sSasU52U90OuGxk=
+
+Name: res/drawable/banner_mfest.png
+SHA1-Digest: MAZ4uIHDpSebpCkIZo0coaoT/QQ=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: vkqm8TXp3yy/Qg5JatgD5k3KN+g=
+
+Name: res/drawable/promo_ron.png
+SHA1-Digest: mPzVwxtQ7FD5C+GNo76sUJ6thaY=
+
+Name: res/drawable/promo_espumante.png
+SHA1-Digest: 8sIMA0QxowA0u/gpRenwx/6jDSY=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: res/drawable/bebida.png
+SHA1-Digest: e6+wFWyZXPUBUCfAEAB5sZA8HFY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: Pz5rsvZTd9eVNnjcXVU39QzrqM8=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 8fFdZoyOA0FyEP0K/a0QnLk0bbE=
+
+Name: res/drawable/promo_whisky.png
+SHA1-Digest: XOCOOgLCTQ3kn+V/Bj7EyXFjrjE=
+
+Name: res/drawable/redbull.png
+SHA1-Digest: PVoZ9pL9eUzWtbpDvHcK9iR5rLw=
+
+Name: res/drawable/banner_app_60.png
+SHA1-Digest: ubUscEV9GZg5J9Gn0Q51O04Evxo=
+
+Name: res/drawable/redbull_off.png
+SHA1-Digest: vL3LxmG4pbv0CW/EJaJCy1W4h+o=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: kvy6NVZis2HTuWhGbjSTUHivrS8=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: FAeK6kMIMcPX6Q0OGOz0U4uK9I0=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: dkGeTzMx4CejQo7soC1wf5M1vy4=
+
+Name: res/drawable/pisco_tonica_off.png
+SHA1-Digest: ALTHbRmx17DTiUUXoUexZuRPNXM=
+
+Name: res/drawable/whisky_ballentines_redbull.png
+SHA1-Digest: jDaaIf4vqg4RrpeQ8zHvkHcL/uQ=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: f2VdHrIYW/Wf7Guxp0AjlVBF0FY=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: 4xnkm0UyRFarzjlCvrU7Ez5uCZk=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: in/uM6gaoddhlniDyLN3qnCoO90=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: uCcRv4aTtKpCsa3RNmJsEZ8g4P0=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: TGHVlpw1mq1IC2cB7ulwjQ18wdc=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: g2USB8po5f17zq2bzhZdtnxSmOg=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: ofI9nzE08OaCOIP3AVHuxWg/9QQ=
+
+Name: res/drawable/vodka_canada_dry_off.png
+SHA1-Digest: Kl1ycfy5UMnQ0kdcfPJ6Qq3IySE=
+
+Name: res/drawable/redbull_light.png
+SHA1-Digest: qEU5uJzYrVC6X14cEel7c+9Beoo=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: u8lEY+2Bl006RY/NojCiasl0Huw=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: o+8NFbzkmHYkqnNEQEZFfu2Scxs=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: +eLoSt8uctg1cY5up3uNj7FsoEI=
+
+Name: res/drawable/whisky_blanca.png
+SHA1-Digest: aKdo7s3RQTJ0PPAagtEmQHKEvLw=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: VPmKAqmLJ6ke7a8XellbYKiIBh8=
+
+Name: res/drawable/ron_redbull_off.png
+SHA1-Digest: 3BOcoOcwwND8JRZPbuBHGcB/JKQ=
+
+Name: res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: LZMqwcX/oCryOgxvEnSkOdDEr2M=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: bHADGZ86aGisr0oBfZBoU7RHX/g=
+
+Name: res/drawable/botella_amaranta.png
+SHA1-Digest: YqwG2KA4zcRMac5b39+ES5NinPk=
+
+Name: res/drawable/promo_whisky_off.png
+SHA1-Digest: 0iesjPTlz3MbZ8o+J9wyYEw7AKk=
+
+Name: res/drawable/pisco.png
+SHA1-Digest: YDkFyy2OZpsd+LkDK16Jz5sbRSc=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: idNZFNqwX4NjrkS539jMeovyeGY=
+
+Name: res/drawable/whisky_normal.png
+SHA1-Digest: wmmPPyGBmrpz9XtOxWq/F6mXDaQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jniuuw+ps9CtTIC7MeCedJBG1rs=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 4YsKb2IwvWnlnKLr79msGTpIdXg=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: JKV8P+rg3eY4lfp/aRgwOCFBeL0=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: 8CTw5sgqjEh2LWccRNLnOgwdb/k=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/drawable/whisky_ballentines_4bebidas.png
+SHA1-Digest: TJnvhW7KDnYm0t/IPJFRUfPkJC8=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: fJDemyYkG1ADa8kfTcfiXUcM7jY=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: LRWlMCeV4/Lq+wNklDndVFmtRHU=
+
+Name: res/drawable/botella_vodka.png
+SHA1-Digest: BlOACBLRIxjtZLXfmUmhqxkS72c=
+
+Name: res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: rtSUS00JLWjJ4+bLZjSssV3d2wg=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: A+A9MdQmrAvMMxMOybyfoSwgnqw=
+
+Name: res/drawable/pisco_mistral_redbull.png
+SHA1-Digest: aAIzK1Bj4dFFxIUNpA6jK4wzKcQ=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MoCLKmenbTlsz905dAkmwWiKKG0=
+

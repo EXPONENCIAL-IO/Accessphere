@@ -1,0 +1,465 @@
+[
+  {
+    "model": "provider.ProductCategory",
+    "pk": 1,
+    "fields": {
+      "name": "General",
+      "description": "",
+      "status": "active"
+    }
+  },
+  {
+    "model": "provider.ProductCategory",
+    "pk": 2,
+    "fields": {
+      "name": "Vip",
+      "description": "",
+      "status": "active"
+    }
+  },
+  {
+    "model": "provider.ProductCategory",
+    "pk": 3,
+    "fields": {
+      "name": "Patio de comidas",
+      "description": "",
+      "status": "active"
+    }
+  },
+  {
+    "model": "provider.ProductType",
+    "pk": 1,
+    "fields": {
+      "name": "product",
+      "description": ""
+    }
+  },
+  {
+    "model": "provider.ProductType",
+    "pk": 2,
+    "fields": {
+      "name": "combo",
+      "description": ""
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 1,
+    "fields": {
+      "name": "Cerveza Heineken",
+      "price": 3000,
+      "image_url": "cerveza_heineken.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 2,
+    "fields": {
+      "name": "Redbull",
+      "price": 2000,
+      "image_url": "redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 3,
+    "fields": {
+      "name": "Agua",
+      "price": 2000,
+      "image_url": "agua.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1, 
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 3,
+    "fields": {
+      "name": "Whisky Bourbon Bulleit",
+      "price": 5000,
+      "image_url": "whisky_bourbon_bulleit.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 4,
+    "fields": {
+      "name": "Vaso",
+      "price": 1000,
+      "image_url": "vaso.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 5,
+    "fields": {
+      "name": "Bebida lata",
+      "price": 2000,
+      "image_url": "bebida_lata.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 6,
+    "fields": {
+      "name": "Jagermeister",
+      "price": 2500,
+      "image_url": "jagermeister.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 7,
+    "fields": {
+      "name": "Espumante Amaranta",
+      "price": 2500,
+      "image_url": "espumante_amaranta.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 8,
+    "fields": {
+      "name": "Whisky Ballentines + Bebida",
+      "price": 5000,
+      "image_url": "whisky_ballentines_bebida.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 9,
+    "fields": {
+      "name": "Vodka Absolut + Bebida",
+      "price": 5000,
+      "image_url": "vodka_absolut_bebida.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 10,
+    "fields": {
+      "name": "Pisco Mistral 35° + Bebida",
+      "price": 4500,
+      "image_url": "pisco_mistral35_bebida.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 11,
+    "fields": {
+      "name": "Ron Havana + Bebida",
+      "price": 5000,
+      "image_url": "ron_havana_bebida.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 12,
+    "fields": {
+      "name": "Pisco Mistral 40° + Bebida",
+      "price": 5000,
+      "image_url": "pisco_mistral40_bebida.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 13,
+    "fields": {
+      "name": "Regalo Aperol Spritz",
+      "price": 5000,
+      "image_url": "aperol_spritz.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 14,
+    "fields": {
+      "name": "Jameson Whisky",
+      "price": 6000,
+      "image_url": "whisky_jameson.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 15,
+    "fields": {
+      "name": "Whisky Ballentines + Redbull",
+      "price": 6000,
+      "image_url": "whisky_ballentines_redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 16,
+    "fields": {
+      "name": "Vodka Absolut + Redbull",
+      "price": 6000,
+      "image_url": "vodka_absolut_redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 17,
+    "fields": {
+      "name": "Espumante Amaranta + Redbull",
+      "price": 4000,
+      "image_url": "espumante_amaranta_redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 18,
+    "fields": {
+      "name": "Havana + Redbull",
+      "price": 6000,
+      "image_url": "ron_havana_redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 19,
+    "fields": {
+      "name": "Pisco Mistral + Redbull",
+      "price": 6000,
+      "image_url": "pisco_mistral_redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 20,
+    "fields": {
+      "name": "Whisky Jameson + Redbull",
+      "price": 7000,
+      "image_url": "whisky_jameson_redbull.png",
+      "type": 1,
+      "tab": 1,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 21,
+    "fields": {
+      "name": "2 Pisco Mistral 35° + 4 Bebidas",
+      "price": 40000,
+      "image_url": "2pisco_mistral35_4bebidas.png",
+      "type": 2,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 2,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 22,
+    "fields": {
+      "name": "2 Pisco Mistral 40° + 4 Bebidas",
+      "price": 45000,
+      "image_url": "2pisco_mistral40_4bebidas.png",
+      "type": 2,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 2,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 23,
+    "fields": {
+      "name": "2 Ron Havana + 4 Bebidas",
+      "price": 40000,
+      "image_url": "2ron_havana_4bebidas.png",
+      "type": 1,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 24,
+    "fields": {
+      "name": "2 Vodka Absolut + 4 Bebidas",
+      "price": 40000,
+      "image_url": "2ron_havana_4bebidas.png",
+      "type": 1,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 1,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 25,
+    "fields": {
+      "name": "Botella Espumante Amaranta",
+      "price": 25000,
+      "image_url": "botlella_espumante_amaranta.png",
+      "type": 1,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 2,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 26,
+    "fields": {
+      "name": "2 Whisky Ballentines + 4 Bebidas",
+      "price": 40000,
+      "image_url": "2whisky_ballentines_4bebidas.png",
+      "type": 1,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 2,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 27,
+    "fields": {
+      "name": "2 Whisky Jameson + 4 Bebidas",
+      "price": 50000,
+      "image_url": "2whisky_jameson_4bebidas.png",
+      "type": 1,
+      "tab": 2,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 2,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 28,
+    "fields": {
+      "name": "Regalo Aperol Spritz",
+      "price": 0,
+      "image_url": "aperol_spritz.png",
+      "type": 1,
+      "tab": 3,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 2,
+      "store": 1
+    }
+  },
+  {
+    "model": "provider.StoreProduct",
+    "pk": 999,
+    "fields": {
+      "name": "Calculadora",
+      "price": 0,
+      "image_url": "botella_generica.png",
+      "type": 1,
+      "tab": 4,
+      "created_at": "2015-11-09 12:43:13.840975-03",
+      "category": 3,
+      "store": 1
+    }
+  }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="espacio_superior">100dp</dimen>
+    <dimen name="size_h_btn_reinicio_scan">280dp</dimen>
+    <dimen name="size_w_btn_reinicio_scan">300dp</dimen>
+</resources>

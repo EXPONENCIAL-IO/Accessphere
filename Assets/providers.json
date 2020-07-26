@@ -1,0 +1,75 @@
+[
+	{
+	   "fields": {
+	      "do_business_as": "LM",
+	      "activity": null
+	   },
+	   "model": "people.organization",
+	   "pk": 2
+	},
+	{
+	   "fields": {
+	      "party": 2,
+	      "created_at": "2015-12-16T22:45:51.319Z",
+	      "type": "rut",
+	      "value": "222222222"
+	   },
+	   "model": "people.partyidentification",
+	   "pk": 2
+	},
+	{
+	   "fields": {
+	      "party": 2,
+	      "role": "principal"
+	   },
+	   "model": "people.partyrole",
+	   "pk": 3
+	},
+	{
+	   "fields": {
+	      "balance": "0.00",
+	      "fee": 2
+	   },
+	   "model": "accounting.account",
+	   "pk": 2
+	},
+	{
+	   "fields": {
+	      "username": "lm@lm.cl",
+	      "first_name": "",
+	      "last_name": "",
+	      "is_active": true,
+	      "is_superuser": true,
+	      "is_staff": true,
+	      "last_login": null,
+	      "groups": [],
+	      "user_permissions": [],
+	      "password": "pbkdf2_sha256$20000$ADGxIsAGTyRT$zqat0U9ORNsna/YKSjzKZKDxtyj+2y2zqKoIEm4HGDo=",
+	      "email": "lm@lm.cl",
+	      "date_joined": "2015-12-16T22:45:47Z"
+	   },
+	   "model": "auth.user",
+	   "pk": 2
+	},
+	{
+	   "fields": {
+	      "user": 2,
+	      "created": "2015-12-16T22:45:47.414Z"
+	   },
+	   "model": "authtoken.token",
+	   "pk": "765c7ac3d1edcebd891d5743c31e18b711d758c4"
+	},
+	{
+	   "fields": {
+	      "accept_share_profile_picture": false,
+	      "created_at": "2015-12-16T22:45:47.521Z",
+	      "account_managers": [],
+	      "confirmed_email": true,
+	      "user": 2,
+	      "want_email_notifications": true,
+	      "type": "organization"
+	   },
+	   "model": "people.party",
+	   "pk": 2
+	}
+]

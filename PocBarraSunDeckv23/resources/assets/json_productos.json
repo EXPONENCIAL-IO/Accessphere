@@ -1,0 +1,482 @@
+{
+  "products": [
+    {
+      "tag": "-",
+      "image_url": "redbull_silver_2.png",
+      "name": "2x Redbull Silver",
+      "tab": 2,
+      "price": 3000.0,
+      "type": "product",
+      "id": 24,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_red.png",
+      "name": "Redbull Red",
+      "tab": 2,
+      "price": 2000.0,
+      "type": "product",
+      "id": 25,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_red_2.png",
+      "name": "2x Redbull Red",
+      "tab": 2,
+      "price": 3000.0,
+      "type": "product",
+      "id": 26,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "bebida_lata.png",
+      "name": "Bebida lata",
+      "tab": 1,
+      "price": 2000.0,
+      "type": "product",
+      "id": 27,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "bebida_lata_2.png",
+      "name": "2x Bebida lata",
+      "tab": 1,
+      "price": 3000.0,
+      "type": "product",
+      "id": 28,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "whisky_redbull.png",
+      "name": "Whisky + Redbull",
+      "tab": 2,
+      "price": 6000.0,
+      "type": "product",
+      "id": 29,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "ron_redbull.png",
+      "name": "Ron + Redbull",
+      "tab": 2,
+      "price": 5000.0,
+      "type": "product",
+      "id": 30,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "agua.png",
+      "name": "Agua",
+      "tab": 1,
+      "price": 2000.0,
+      "type": "product",
+      "id": 1,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "agua_2.png",
+      "name": "2x Agua",
+      "tab": 1,
+      "price": 3000.0,
+      "type": "product",
+      "id": 2,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "whisky_bourbon_bulleit.png",
+      "name": "Whisky Bourbon Bulleit",
+      "tab": 1,
+      "price": 5000.0,
+      "type": "product",
+      "id": 3,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "whisky_bourbon_bulleit_2.png",
+      "name": "2x Whisky Bourbon Bulleit ",
+      "tab": 1,
+      "price": 8000.0,
+      "type": "product",
+      "id": 4,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "ron.png",
+      "name": "Ron",
+      "tab": 1,
+      "price": 4000.0,
+      "type": "product",
+      "id": 5,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "ron_2.png",
+      "name": "2x Ron",
+      "tab": 1,
+      "price": 7000.0,
+      "type": "product",
+      "id": 6,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "vodka_sky.png",
+      "name": "Vodka Sky",
+      "tab": 1,
+      "price": 5000.0,
+      "type": "product",
+      "id": 7,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "vodka_sky_2.png",
+      "name": "2x Vodka Sky",
+      "tab": 1,
+      "price": 8000.0,
+      "type": "product",
+      "id": 8,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "pisco_mistral.png",
+      "name": "Pisco Mistral",
+      "tab": 1,
+      "price": 4000.0,
+      "type": "product",
+      "id": 9,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "pisco_mistral_2.png",
+      "name": "2x Pisco Mistral",
+      "tab": 1,
+      "price": 7000.0,
+      "type": "product",
+      "id": 10,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "espumante_amaranta.png",
+      "name": "Espumante Amaranta",
+      "tab": 1,
+      "price": 3000.0,
+      "type": "product",
+      "id": 11,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "espumante_amaranta_2.png",
+      "name": "2x Espumante Amaranta",
+      "tab": 1,
+      "price": 5000.0,
+      "type": "product",
+      "id": 12,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "aperol_spritz.png",
+      "name": "Aperol Spritz",
+      "tab": 1,
+      "price": 6000.0,
+      "type": "product",
+      "id": 13,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "aperol_spritz_2.png",
+      "name": "2x Aperol Spritz",
+      "tab": 1,
+      "price": 10000.0,
+      "type": "product",
+      "id": 14,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "cerveza_heineken.png",
+      "name": "Cerveza Heineken",
+      "tab": 1,
+      "price": 3000.0,
+      "type": "product",
+      "id": 15,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "cerveza_heineken_2.png",
+      "name": "2x Cerveza Heineken",
+      "tab": 1,
+      "price": 5000.0,
+      "type": "product",
+      "id": 16,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull.png",
+      "name": "Redbull",
+      "tab": 2,
+      "price": 2000.0,
+      "type": "product",
+      "id": 17,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_2.png",
+      "name": "2x Redbull",
+      "tab": 2,
+      "price": 3000.0,
+      "type": "product",
+      "id": 18,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_sugar_free.png",
+      "name": "Redbull sugar free",
+      "tab": 2,
+      "price": 2000.0,
+      "type": "product",
+      "id": 19,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_sugar_free_2.png",
+      "name": "2x Redbull sugar free",
+      "tab": 2,
+      "price": 3000.0,
+      "type": "product",
+      "id": 20,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_blue.png",
+      "name": "Redbull Blue",
+      "tab": 2,
+      "price": 2000.0,
+      "type": "product",
+      "id": 21,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_blue_2.png",
+      "name": "2x Redbull Blue",
+      "tab": 2,
+      "price": 3000.0,
+      "type": "product",
+      "id": 22,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "redbull_silver.png",
+      "name": "Redbull Silver",
+      "tab": 2,
+      "price": 2000.0,
+      "type": "product",
+      "id": 23,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "vodka_redbull.png",
+      "name": "Vodka + Redbull",
+      "tab": 2,
+      "price": 6000.0,
+      "type": "product",
+      "id": 31,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "pisco_redbull.png",
+      "name": "Pisco + Redbull",
+      "tab": 2,
+      "price": 5000.0,
+      "type": "product",
+      "id": 32,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "espumante_redbull.png",
+      "name": "Espumante + Redbull",
+      "tab": 2,
+      "price": 4000.0,
+      "type": "product",
+      "id": 33,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "botella_ron.png",
+      "name": "Botella Ron",
+      "tab": 2,
+      "price": 30000.0,
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "ron",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "27-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "17-19-21-23-25",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": 34,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "botella_vodka.png",
+      "name": "Botella Vodka",
+      "tab": 2,
+      "price": 30000.0,
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "vodka",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "27-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "17-19-21-23-25",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": 35,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "botella_pisco.png",
+      "name": "Botella Pisco",
+      "tab": 2,
+      "price": 30000.0,
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "pisco",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "27-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "17-19-21-23-25",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": 36,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "botella_whisky_bulleit.png",
+      "name": "Botella Whisky Bulleit",
+      "tab": 2,
+      "price": 45000.0,
+      "childnodes": {
+        "items": [
+          {
+            "max": 1,
+            "tag": "whisky",
+            "min": 1
+          },
+          {
+            "max": 6,
+            "tag": "bebidas",
+            "id_productos": "27-1",
+            "min": 4
+          },
+          {
+            "max": 2,
+            "tag": "energeticas",
+            "id_productos": "17-19-21-23-25",
+            "min": 0
+          }
+        ],
+        "quantity": 7
+      },
+      "type": "combo",
+      "id": 37,
+      "stock": "1000"
+    },
+    {
+      "tag": "-",
+      "image_url": "botella_amaranta.png",
+      "name": "Botella Espumante",
+      "tab": 2,
+      "price": 25000.0,
+      "type": "product",
+      "id": 38,
+      "stock": "1000"
+    },
+    {
+      "tag": "gift",
+      "image_url": "whisky_bourbon_bulleit.png",
+      "name": "Regalo Whisky Bourbon Bulleit",
+      "tab": 3,
+      "price": 0.0,
+      "type": "product",
+      "id": 99,
+      "stock": "1000"
+    }
+  ]
+}

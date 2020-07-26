@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "id": "19",
+      "tag": "bebida_lata",
+      "name": "Bebida Lata",
+      "price": "2000",
+      "stock": "1000",
+      "image_url": "bebida_lata",
+      "type": "product"
+    },
+    {
+      "id": "20",
+      "tag": "redbull_light",
+      "name": "Red Bull Ligth",
+      "price": "2500",
+      "stock": "1000",
+      "image_url": "redbull_light",
+      "type": "product"
+    },
+    {
+      "id": "21",
+      "tag": "corona_light",
+      "name": "Corona Light",
+      "price": "2500",
+      "stock": "1000",
+      "image_url": "corona_light",
+      "type": "product"
+    },
+    {
+      "id": "22",
+      "tag": "pisco_blanca",
+      "name": "Pisco Bebida Blanca",
+      "price": "4500",
+      "stock": "1000",
+      "image_url": "pisco_blanca",
+      "type": "product"
+    },
+    {
+      "id": "23",
+      "tag": "pisco_tonica",
+      "name": "Pisco Tonica",
+      "price": "4500",
+      "stock": "1000",
+      "image_url": "pisco_tonica",
+      "type": "product"
+    },
+    {
+      "id": "24",
+      "tag": "whisky_blanca",
+      "name": "Whisky Bebida Blanca",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "whisky_blanca",
+      "type": "product"
+    },
+    {
+      "id": "25",
+      "tag": "whisky_tonica",
+      "name": "Whisky Tonica",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "whisky_tonica",
+      "type": "product"
+    },
+    {
+      "id": "26",
+      "tag": "ron_blanca",
+      "name": "Ron Bebida Blanca",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "ron_blanca",
+      "type": "product"
+    },
+    {
+      "id": "27",
+      "tag": "ron_tonica",
+      "name": "Ron Tonica",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "ron_tonica",
+      "type": "product"
+    },
+    {
+      "id": "28",
+      "tag": "espumante_redbull",
+      "name": "Espumante Red Bull",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "espumante_redbull",
+      "type": "product"
+    },
+    {
+      "id": "29",
+      "tag": "promo_ron",
+      "name": "Botella Ron",
+      "price": "40000",
+      "stock": "1000",
+      "image_url": "promo_ron",
+      "type": "combo",
+      "childnodes": {
+        "quantity": 7,
+        "items": [
+          {
+            "tag": "ron",
+            "min": 1,
+            "max": 1,
+            "cab":true
+          },
+          {
+            "tag": "bebidas",
+            "min": 4,
+            "max": 6,
+            "cab":false,
+            "id_productos":"19-1"
+          },
+          {
+            "tag": "energeticas",
+            "min": 0,
+            "max": 2,
+            "cab":false,
+            "id_productos":"2-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "tag": "promo_whisky",
+      "name": "Botella Whisky",
+      "price": "50000",
+      "stock": "1000",
+      "image_url": "promo_whisky",
+      "type": "combo",
+      "childnodes": {
+        "quantity": 7,
+        "items": [
+          {
+            "tag": "whisky",
+            "min": 1,
+            "max": 1,
+            "cab":true
+          },
+          {
+            "tag": "bebidas",
+            "min": 4,
+            "max": 6,
+            "cab":false,
+            "id_productos":"19-1"
+          },
+          {
+            "tag": "energeticas",
+            "min": 0,
+            "max": 2,
+            "cab":false,
+            "id_productos":"2-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "tag": "promo_pisco",
+      "name": "Botella Pisco",
+      "price": "40000",
+      "stock": "1000",
+      "image_url": "promo_pisco",
+      "type": "combo",
+      "childnodes": {
+        "quantity": 7,
+        "items": [
+          {
+            "tag": "pisco",
+            "min": 1,
+            "max": 1,
+            "cab":true
+          },
+          {
+            "tag": "bebidas",
+            "min": 4,
+            "max": 6,
+            "cab":false,
+            "id_productos":"19-1"
+          },
+          {
+            "tag": "energeticas",
+            "min": 0,
+            "max": 2,
+            "cab":false,
+            "id_productos":"2-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "tag": "promo_vodka",
+      "name": "Botella Vodka",
+      "price": "40000",
+      "stock": "1000",
+      "image_url": "promo_vodka",
+      "type": "combo",
+      "childnodes": {
+        "quantity": 7,
+        "items": [
+          {
+            "tag": "vodka",
+            "min": 1,
+            "max": 1,
+            "cab":true
+          },
+          {
+            "tag": "bebidas",
+            "min": 4,
+            "max": 6,
+            "cab":false,
+            "id_productos":"19-1"
+          },
+          {
+            "tag": "energeticas",
+            "min": 0,
+            "max": 2,
+            "cab":false,
+            "id_productos":"2-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "tag": "promo_jagermeister",
+      "name": "Botella Jagermeister",
+      "price": "40000",
+      "stock": "1000",
+      "image_url": "promo_jagermeister",
+      "type": "combo",
+      "childnodes": {
+        "quantity": 7,
+        "items": [
+          {
+            "tag": "jagermeister",
+            "min": 1,
+            "max": 1,
+            "cab":true
+          },
+          {
+            "tag": "bebidas",
+            "min": 4,
+            "max": 6,
+            "cab":false,
+            "id_productos":"19-1"
+          },
+          {
+            "tag": "energeticas",
+            "min": 0,
+            "max": 2,
+            "cab":false,
+            "id_productos":"2-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "tag": "promo_espumante",
+      "name": "Botella Espumante",
+      "price": "25000",
+      "stock": "1000",
+      "image_url": "promo_espumante",
+      "type": "product",
+      "childnodes": {
+        "quantity": 1,
+        "items": [
+          {
+            "tag": "espumante",
+            "min": 1,
+            "max": 1,
+            "cab":true
+          }
+        ]
+      }
+    }
+  ]
+}

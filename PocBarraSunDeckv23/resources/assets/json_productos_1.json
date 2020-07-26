@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "tag": "agua",
+      "name": "Agua",
+      "price": "2000",
+      "stock": "1000",
+      "image_url": "agua",
+      "type": "product"
+    },
+    {
+      "id": "2",
+      "tag": "red_bull",
+      "name": "Red Bull",
+      "price": "2500",
+      "stock": "1000",
+      "image_url": "red_bull",
+      "type": "product"
+    },
+    {
+      "id": "3",
+      "tag": "corona",
+      "name": "Corona Extra",
+      "price": "2500",
+      "stock": "1000",
+      "image_url": "corona",
+      "type": "product"
+    },
+    {
+      "id": "4",
+      "tag": "piscola_normal",
+      "name": "Piscola Coca Normal",
+      "price": "4500",
+      "stock": "1000",
+      "image_url": "piscola_normal",
+      "type": "product"
+    },
+    {
+      "id": "5",
+      "tag": "piscola_light",
+      "name": "Piscola Coca Light",
+      "price": "4500",
+      "stock": "1000",
+      "image_url": "piscola_light",
+      "type": "product"
+    },
+    {
+      "id": "6",
+      "tag": "piscola_redbull",
+      "name": "Piscola Red Bull",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "piscola_redbull",
+      "type": "product"
+    },
+    {
+      "id": "7",
+      "tag": "vodka_canada_dry",
+      "name": "Vodka Canada Dry",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "vodka_canada_dry",
+      "type": "product"
+    },
+    {
+      "id": "8",
+      "tag": "vodka_tonica",
+      "name": "Vodka Tonica",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "vodka_tonica",
+      "type": "product"
+    },
+    {
+      "id": "9",
+      "tag": "vodka_redbull",
+      "name": "Vodka Red Bull",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "vodka_redbull",
+      "type": "product"
+    },
+    {
+      "id": "10",
+      "tag": "whisky_normal",
+      "name": "Whisky Coca Normal",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "whisky_normal",
+      "type": "product"
+    },
+    {
+      "id": "11",
+      "tag": "whisky_light",
+      "name": "Whisky Coca Light",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "whisky_light",
+      "type": "product"
+    },
+    {
+      "id": "12",
+      "tag": "whisky_redbull",
+      "name": "Whisky Red Bull",
+      "price": "7000",
+      "stock": "1000",
+      "image_url": "whisky_redbull",
+      "type": "product"
+    },
+    {
+      "id": "13",
+      "tag": "ron_normal",
+      "name": "Ron Coca Normal",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "ron_normal",
+      "type": "product"
+    },
+    {
+      "id": "14",
+      "tag": "ron_light",
+      "name": "Ron Coca Light",
+      "price": "5000",
+      "stock": "1000",
+      "image_url": "ron_light",
+      "type": "product"
+    },
+    {
+      "id": "15",
+      "tag": "ron_redbull",
+      "name": "Ron Red Bull",
+      "price": "6000",
+      "stock": "1000",
+      "image_url": "ron_redbull",
+      "type": "product"
+    },
+    {
+      "id": "16",
+      "tag": "jagermeister_redbull",
+      "name": "Jagermeister Red Bull",
+      "price": "4000",
+      "stock": "1000",
+      "image_url": "jagermeister_redbull",
+      "type": "product"
+    },
+    {
+      "id": "17",
+      "tag": "jagermeister",
+      "name": "Jagermeister",
+      "price": "2500",
+      "stock": "1000",
+      "image_url": "jagermeister",
+      "type": "product"
+    },
+    {
+      "id": "18",
+      "tag": "espumante",
+      "name": "Espumante",
+      "price": "2500",
+      "stock": "1000",
+      "image_url": "espumante",
+      "type": "product"
+    }
+  ]
+}

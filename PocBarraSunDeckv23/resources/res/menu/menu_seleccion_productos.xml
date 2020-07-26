@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_settings" android:orderInCategory="100" android:title="@string/action_settings" app:showAsAction="never"/>
+    <item android:id="@+id/action_json" android:orderInCategory="100" android:title="@string/action_json" app:showAsAction="never"/>
+    <item android:id="@+id/action_id" android:orderInCategory="100" android:title="@string/action_id" app:showAsAction="never"/>
+    <item android:id="@+id/action_trx" android:orderInCategory="100" android:title="@string/action_trx" app:showAsAction="never"/>
+    <item android:id="@+id/action_archivo" android:orderInCategory="100" android:title="@string/action_archivo" app:showAsAction="never"/>
+    <item android:id="@+id/action_total" android:orderInCategory="100" android:title="@string/action_total" app:showAsAction="never"/>
+</menu>

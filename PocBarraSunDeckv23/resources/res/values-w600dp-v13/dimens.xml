@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_search_view_text_min_width">192dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="ancho_botones">140dp</dimen>
+</resources>
